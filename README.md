@@ -14,3 +14,7 @@ The paper is available here : https://arxiv.org/abs/1312.5602
 
 The first hidden layer convolves 16 8x8 filters with stride 4 with the input image and applies a rectifier nonlinearity (ReLU). The second
 hidden layer convolves 32 4x4 filters with stride 2, again followed by a ReLU activation. The final hidden layer is fully-connected and consists of 256 rectifier units. The output layer is a fully-connected linear layer with a single output for each valid action (in our case 6).
+
+## Future work
+
+I need to work on hyper parameter-tuning and provide code for a demo.
