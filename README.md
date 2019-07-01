@@ -1,4 +1,4 @@
-# DQN
+# Implementation of a DQN in Keras
 
 In this notebook I implmented a Deep Q-Network (DQN) in Keras that plays "Airraid-V0" from Atari Games.
 
